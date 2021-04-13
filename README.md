@@ -1,24 +1,21 @@
 # MBC06-Weather-App
 
-# MBC05_Work-Day-Scheduler
-
-Monash Bootcamp Week 5 Assignment - Workday Scheduler
+Monash Bootcamp Week 6 Assignment - Weather App
 
 ### About this project
 
-This simple calendar application allows an employee to add events to a daily work planner for time managment.
+This weather application allows a user to search for a specified cities daily weather conditions including 5 day forecast.
 
-The schedule has defined business hours (9AM -5PM). On entry, color coding has been used so that the employee can easily identify records in the past, the current hour based on their local time
-and scheduled future events.
+The application leverages use of the Open Weather App city and one call API to determine rendered results.
 
-This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+Additional features support saving searched city locations.
 
 ### Project Link
 
 ### Screen layout and Design
 
 The following image depicts the web application's appearance and functionality:
-(![Weather App Screen Design](https://github.com/vvnnzar/MBC06_Weather/blob/main/assets/screen%20design/assets/screen design/screen design.PNG))
+(![Workday Schedule Screen Design](https://github.com/vvnnzar/MBC06_Weather-App/assets/screen design/screen design.png))
 
 ### Acknowledgements
 
@@ -35,8 +32,8 @@ To view and modify code you will require installation of HTML and Code editor so
 ### Installation of local project repository
 
 1. Install GITHib on your PC
-2. Create a local project repository i.e. c:\horiseon_website
-3. Clone project repository using command: https://github.com/vvnnzar/MBC05_Work-Day-Scheduler.git
+2. Create a local project repository 
+3. Clone project repository using git clone
 4. Initialise the project using command: git init
 
 ### Getting Started
@@ -69,7 +66,7 @@ To update the project with latest code:
 
 ### Built With
 
-- Use the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for city searched.
+Use of [OpenWeather API](https://openweathermap.org/api) 
 
 ### Versioning
 
