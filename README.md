@@ -15,7 +15,7 @@ Additional features support saving searched city locations.
 ### Screen layout and Design
 
 The following image depicts the web application's appearance and functionality:
-(![Workday Schedule Screen Design](https://github.com/vvnnzar/MBC06_Weather-App/assets/screen design/screen design.png))
+(![Workday Schedule Screen Design](https://github.com/vvnnzar/MBC06-Weather-App/blob/main/assets/screen%20design/screen%20design.PNG))
 
 ### Acknowledgements
 
